@@ -33,5 +33,4 @@ class Student {
     	return '<pre>'.$result.'</pre>';
 	}
 
-	
 }
